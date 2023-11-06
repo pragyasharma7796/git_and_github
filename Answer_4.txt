@@ -1,0 +1,50 @@
+GitHub is a platform where you can upload a copy of your Git repository (often shortened as repo), hosted
+either on github.com. More than just uploading your Git repositories it allows you to collaborate much more
+easily with other people on your projects. It does that by providing a centralized location to share the
+repository, a web-based interface to view it, and features like forking, Pull requests, Issues, Projects, and GitHub
+Wikis that allow you to specify, discuss, and review changes with your team more effectively.
+
+GitHub is much more than just a place to store your Git repositories. It provides a number of additional benefits,
+including the ability to the following as shown below -
+
+1. Version Control - GitHub is built on top of Git, a powerful distributed version control system. It allows
+developers to track changes, collaborate with others, and manage project versions effectively.
+
+2. Document requirements - using issues, you can either document bugs or specify new features that youd like
+to have your team develop.
+
+3. Collaborate on independent streams of history - using branches and pull requests, you can collaborate on
+different branches or features
+
+4. Review work in progress - By looking at the list of pull requests, you can see all of the different features that
+are currently being worked on, by clicking any given pull request you see the latest changes and all of the
+discussions about the changes, check the status of integration like a Continuous Integration (cl) server, or even
+add your own review to approve changes before they are accepted
+
+5. See team progress - Looking through the commit history allows you to see what the team has been working
+on.
+
+6. Public and Private Repositories - GitHub supports both public and private repositories. Public repositories
+encourage open collaboration and sharing, while private repositories offer secure spaces for proprietary or
+sensitive projects.
+
+Alternative of GitHub
+Some of the platforms that provide the same functionality similar to GitHub can be -
+1. GitLab - GitLab provides a comparable suite of services to GitHub, encompassing Git repository hosting,
+code collaboration, and continuous integration. It also offers Gitlab Pages for website hosting.
+
+2. BitBucket - Bitbucket is a robust alternative offering Git repository hosting, code collaboration, and issue
+tracking. Similar to GitHub, Bitbucket supports continuous integration through features like Bitbucket
+Pipelines.
+
+3. SourceForge: SourceForge is a long-standing open-source software development platform that offers a
+variety of features, including code hosting, issue tracking, and project management. t has a free plan for
+open-source projects, and it also offers paid plans for private projects.
+
+4. Launchpad: launchpad is a soitware collaboration platform by Canonical, the parent company of Ubuntu.
+It offers code hosting, issue tracking, and other features for open-source projects. Launchpad is free to
+use.
+
+5. Gitea: Gitea is a self-hosted Git repository hosting service. It is free and open source, and it offers many of
+the same features as GitHub. Gitea is a good option for teams who want to host their own code
+repositories.

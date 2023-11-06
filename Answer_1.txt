@@ -1,0 +1,33 @@
+Version control system (vcs), also known as Source Code Management (SCM) is a fundamental tool used in
+software development and other collaborative projects to manage and track changes to files over time. VCSs
+are an Integral part of the development process and a must-have tool for both individual developers and
+teams as well.
+Version control is a system that records changes to a file or set of files over time. It allows you to track the
+history of changes, collaborate with others, and manage multiple versions of a project. Version control is
+commonly used in software development, but it can also be applied to any context where files need to be
+tracked and shared.
+
+Need of Version Control System-
+
+Version Control Systems (vCS) are crucial tools in software development, and understanding their importance
+Is essential, especially for beginners.
+Heres on explanation of the need for a version control system:
+. TrackIng History changes - A VCS records all changes to project files, allowing developers to track why and
+when changes occurred, aiding debugging and project understanding.
+• Collaboration or Parallel development - In software development, team members often work
+simultaneously on the same project. VCS enables collaboration through branches, simplifying the
+combination of changes.
+. Backup and Disaster Recovery - VCS serves as a backup system for project code. Even if a developers local
+copy is lost or damaged, the projects history on the central server ensures data safety.
+. Code Reviews and Quality Assurance - VCS enables code reviews, allowing team members to assess code
+quality, adherence to standards, and issues before merging it.
+• Experimentation and Rollback- Developers can experiment in separate branches without impacting the
+main project If an experiment fails, branches can be easily discarded, returning to the previous state.
+. Release Management - VCS aids software release management by tagging specific code versions,
+ensuring consistent and reliable software releases.
+. Traceability and Documentation - VCS offers an audit trail, documenting changes and providing context for
+project history and decisions.
+. Conflict Resolution - When developers simultaneously modify the same code, VCS tools help resolve
+conflicts systematically, highlighting necessary changes.
+. Open Source and Collaboration Beyond Teams - VCS tools are vital for open-source projects, enabling
+global collaboration and maintaining code quality.
